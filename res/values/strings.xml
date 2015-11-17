@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aurora</string>
+    <string name="app_n">Ayush</string>
+    <string name="tab1">"Description"</string>
+    <string name="tab2">"Rules"</string>
+    <string name="tab3">"Contact"</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">About Us</string>
+    <string name="title_section3">Events</string>
+    <string name="title_section4">Pronight</string>
+    <string name="title_section5">Schedule</string>
+    <string name="title_section6">Map</string>
+    <string name="title_section7">Sponcers</string>
+    <string name="title_section8">Team</string>
+    <string name="title_section9">Credits</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_aboutus">Aboutus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_team">Team</string>
+    <string name="title_activity_events_detail">EventsDetail</string>
+    <string name="title_activity_corna">Corna</string>
+    <string name="title_activity_parivesh">Parivesh</string>
+    <string name="title_activity_aurora__idol">Aurora_Idol</string>
+    <string name="title_activity_mnm">MNM</string>
+    <string name="title_activity_laugh__out__loud">Laugh_Out_Loud</string>
+    <string name="title_activity_dance__carnival">Dance_Carnival</string>
+    <string name="title_activity_art__mela">Art_Mela</string>
+    <string name="title_activity_street__play">Street_Play</string>
+    <string name="title_activity_phoenix">Phoenix</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_sponcers">Sponcers</string>
+    <string name="title_activity_pronight">Pronight</string>
+
+</resources>

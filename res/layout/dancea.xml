@@ -1,0 +1,22 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.93"
+        android:text="The entire world’s a stage.Bringing back the 20’s extravaganza, the era wherein contests like Dance India Dance and India’s dancing superstar created a whiz bang and enkindled dancing sensations like Prince and Dharmesh Sir. So are you willing to show your masala on the stage? Or set the stage on fire with the colors and mesmerize us with your latkas, jhatkas and thumkas. Bollywood ishtyle!"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+</LinearLayout>
+
+ </ScrollView>
+

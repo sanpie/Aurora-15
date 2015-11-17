@@ -1,0 +1,21 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:text="The race to earn the coveted tag and make heads turn for days begun. MnM is the irrevocable search for the best with the pleasing aura in personality. It is the personality hunt contest of Aurora where the titles of Mr and Ms Aurora find their suitable bearer."
+       android:textColor="#FFFFFF"
+       android:textSize="20dp" />
+   
+</LinearLayout>
+ </ScrollView>
+

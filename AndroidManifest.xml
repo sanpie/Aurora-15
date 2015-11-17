@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aurora15"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="com.example.aurora15.permission.MAPS_RECEIVE" />
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <permission
+        android:name="com.example.aurora15.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MyActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Events"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Schedule"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Contact"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Aboutus"
+            android:label="@string/title_activity_aboutus" >
+        </activity>
+        <activity
+            android:name=".Team"
+            android:label="@string/title_activity_team" >
+        </activity>
+        <activity
+            android:name=".EventsDetail"
+            android:label="@string/title_activity_events_detail" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="campus" >
+        </activity>
+        <activity
+            android:name=".Parivesh"
+            android:label="@string/title_activity_parivesh" >
+        </activity>
+        <activity
+            android:name=".Aurora_Idol"
+            android:label="@string/title_activity_aurora__idol" >
+        </activity>
+        <activity
+            android:name=".MNM"
+            android:label="@string/title_activity_mnm" >
+        </activity>
+        <activity
+            android:name=".Laugh_Out_Loud"
+            android:label="@string/title_activity_laugh__out__loud" >
+        </activity>
+        <activity
+            android:name=".Dance_Carnival"
+            android:label="@string/title_activity_dance__carnival" >
+        </activity>
+        <activity
+            android:name=".Art_Mela"
+            android:label="@string/title_activity_art__mela" >
+        </activity>
+        <activity
+            android:name=".Street_Play"
+            android:label="@string/title_activity_street__play" >
+        </activity>
+        <activity
+            android:name=".Phoenix"
+            android:label="@string/title_activity_phoenix" >
+        </activity>
+        <activity
+            android:name=".Corna"
+            android:label="@string/title_activity_corna" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyABEHLIpc1cNm26cotijNdBWlAiD9zDBbU" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".Sponcers"
+            android:label="@string/title_activity_sponcers" >
+        </activity>
+        <activity
+            android:name=".Pronight"
+            android:label="@string/title_activity_pronight" >
+        </activity>
+    </application>
+
+</manifest>

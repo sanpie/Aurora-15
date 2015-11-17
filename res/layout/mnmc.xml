@@ -1,0 +1,59 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+   
+   <TextView android:layout_height="75dp"
+       android:layout_width="match_parent"
+               android:textColor="#FFFFFF"
+       
+
+       android:text="Ashish Krishna      8989808213    ashishkrishna007@gmail.com"
+       android:textSize="20dp"/>
+
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+
+        android:text="Arpan Jain            9479902767   arpanjain1405@gmail.com"
+        android:textSize="20dp"/>
+
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+
+        android:text="Mizan                  9479949581    mizanullah94@gmail.com"
+        android:textSize="20dp"/>
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+        android:text="Gaurang Singhal    8719913141"
+        android:textSize="20dp"/>
+    
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+        android:text="M. Yashwanth        9407300392"
+        android:textSize="20dp"/>  
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+        android:text="Irita Mishra                            iritamishra@gmail.com\nYogita Kanwar                        kanwar.yogita121@gmail.com"
+        android:textSize="20dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+        </LinearLayout>
+   
+</LinearLayout>
+ </ScrollView>
+

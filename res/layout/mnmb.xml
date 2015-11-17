@@ -1,0 +1,29 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+   
+   <TextView android:layout_height="wrap_content"
+       android:layout_width="wrap_content"
+               android:textColor="#FFFFFF"
+       
+
+       android:text="1. The forms for the first round will be provided by the organisers on the first day of Aurora`15.
+\n2. The final decision for the GD/JAM round in MnM rests with the organising team and jury.
+\n3. The notifications and results of each round will be relayed to the participants as soon as possible.
+\n4. Misbehaviour, use of foul language or any form of cheating during any round is prohibited.
+\n5. All participants are requested to be punctual for each round. Any sort of delay will not be entertained and may lead to disqualification."
+       android:textSize="20dp"/>
+
+ 
+   
+</LinearLayout>
+ </ScrollView>
+

@@ -1,0 +1,22 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.93"
+        android:text="When things are difficult, awful, stressful, the thing that always gets you through is a sense of humor. From there to here, here to there, funny things are everywhere. If you think you have in you what it takes to be the next Kanan Gill, Aurora2K15 brings to you LOL - The Stand Up Comedy competition. "
+         android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+</LinearLayout>
+
+ </ScrollView>
+

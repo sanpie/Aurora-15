@@ -1,0 +1,49 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+   
+   <TextView android:layout_height="75dp"
+       android:layout_width="match_parent"
+               android:textColor="#FFFFFF"
+       
+
+       android:text="Gattu Suryateja      9753946898"
+       android:textSize="20dp"/>
+
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+
+        android:text="Krishna Kishore      9907723245"
+        android:textSize="20dp"/>
+
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+
+        android:text="B. Prashant              9907723245"
+        android:textSize="20dp"/>
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+        android:text="Chaitanya Venkat     9907723245"
+        android:textSize="20dp"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+        </LinearLayout>
+   
+</LinearLayout>
+ </ScrollView>
+

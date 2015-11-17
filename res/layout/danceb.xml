@@ -1,0 +1,28 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="1. Props will have to be arranged by participants themselves. \n
+2. The dance floor area must be restored to its original state after use. \n
+3. Special light and sound facility (if any required) must be supervised by team member.\n
+4. Indecent outfits and any vulgarity in performance would lead to deduction in marks.\n
+5. Exceeding time limit will also lead to deduction of marks.\n
+6. Exceeding time limit by more than 1 min: -5 marks\n
+7. All the events will be held here at IIITM campus on the dates of fest.\n"
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+
+   
+</LinearLayout>
+ </ScrollView>
+

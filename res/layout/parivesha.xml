@@ -1,0 +1,25 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:text="
+ Beauty is worse than wine, it intoxicates both the holder and the beholder.
+
+Glitterati is about to commence and cast its spell upon the streets of IIITM as young models sashay down the ramp with panache and allure the hearts of many. PARIVESH-the most glamorous event of the festival is ready to captivate the audience with its mesmerizing charm.
+
+Come set the stage on fire with your charm and charisma at Aurora’15!!!"    android:textColor="#FFFFFF"
+       android:textSize="20dp" />
+   
+</LinearLayout>
+ </ScrollView>
+

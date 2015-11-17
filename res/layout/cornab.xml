@@ -1,0 +1,76 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="1. Purely classical numbers are not allowed. However, a classical refrain is allowed."
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="2. Obscenity (at the discretion of the judges) of any kind is not allowed and will lead to immediate disqualification."
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="3. 5 piece drum kit shall be made available by the college."
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="4. Bands are to bring their own equipment apart from drums which would be arranged by the event manager."
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="5. Time Limit should be strictly followed. Participants will be penalized by judges for not doing so. "
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text=" 6. The decision of the organizers with respect to line-up would be final."
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="7. The decision of the judges will be binding."
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="8. Bands overhead charges Rs 2000/- for team upto 5 members. After that, additional Rs 300/- will be charged per member."
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="9. The fees is non-refundable and includes registration, stay in the campus, food and pick up from railway station/bus stand/airport (the bands must notify beforehand so as to avoid inconvenience)."
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="10. Participants are required to carry their ID cards. "
+    android:textColor="#FFFFFF"
+    android:textSize="20dp" />
+
+   
+</LinearLayout>
+ </ScrollView>
+

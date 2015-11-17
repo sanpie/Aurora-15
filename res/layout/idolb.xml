@@ -1,0 +1,31 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.93"
+        android:text="1. Participant should be a college student or a college pass-out and he/she must not be more than 25 years old. (In any case of suspicion, the participant may be asked to show his/her age proof)\n
+2. The maximum duration of the rendition should not exceed 6 minutes.\n 3. File size should not exceed 15MB\n
+4. Acceptable file format, .mp3
+\n5. You can upload/record only a single rendition of your song for feedback. Please ensure that you upload the correct file. No requests for changing the file that is submitted initially will be entertained.
+\n6. Each submission gives you access to feedback for one rendition only. Multiple songs will be considered as separate entries and the contest enrollment fees will be per entry. The academy is not liable for refund the cost of expert feedback once payment has been made.
+\n7. Any complaints related to the feedback will be addressed according to the discretion of the Academy.
+\n8. Shortlisted contestants must bring the karaoke track of their song in mp3 format for the finale.
+\n9. The decision of the winner will be done on the basis of final performance in ABV-IIITM Gwalior campus.
+\n10. The uploaded content will not be returned to the student and will be archived. The Academy reserves the right to use the rendition as it deems fit.
+\n11. Anybody from anywhere in the world can apply. The Academy will not be liable for any travel, travel related issues or damages arising out of travel."
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+</LinearLayout>
+
+ </ScrollView>
+

@@ -1,0 +1,45 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+   
+   <TextView android:layout_height="75dp"
+       android:layout_width="match_parent"
+               android:textColor="#FFFFFF"
+       
+
+       android:text="Gaurav Singh: 09407068032 gauravsingh1195@gmail.com
+"
+       android:textSize="20dp"/>
+
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+
+        android:text="Sandeep Maury: 09479949641 sandeepmaury96@gmail.com"
+        android:textSize="20dp"/>
+
+    
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+        android:text="Lucky Suman: 09893725401 luckysuman850@gmail.com"
+        android:textSize="20dp"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+        </LinearLayout>
+   
+</LinearLayout>
+ </ScrollView>
+

@@ -1,0 +1,22 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.93"
+        android:text="Recreating the 20’s nostalgia with the euphonious and tranquilizing voices of the dexterous singers, Aurora idol is ready to scout for the emerging Indian Idol or the Amul star Voice of India! So here we haul the opportunity to all the young guns to become the next Arijit Singh or Shreya Ghoshal who with their salubrious voices emerged as the front runners of the music industry in 20’s! "
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+</LinearLayout>
+
+ </ScrollView>
+

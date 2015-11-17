@@ -1,0 +1,49 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+   
+   <TextView android:layout_height="75dp"
+       android:layout_width="match_parent"
+               android:textColor="#FFFFFF"
+       
+
+       android:text="Ashish Pandey          9479322866"
+       android:textSize="20dp"/>
+
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+
+        android:text="Keshav Singhal          9424909992"
+        android:textSize="20dp"/>
+
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+
+        android:text="Akshay Sharma        7694892629"
+        android:textSize="20dp"/>
+    <TextView android:layout_height="75dp"
+        android:layout_width="match_parent"
+        android:textColor="#FFFFFF"
+        android:text="Ridhhi Gupta\nTejaswini Reddy"
+        android:textSize="20dp"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+        </LinearLayout>
+   
+</LinearLayout>
+ </ScrollView>
+

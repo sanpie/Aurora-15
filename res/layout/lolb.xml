@@ -1,0 +1,28 @@
+ <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backpng"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.93"
+        android:text="1. Participation may be solo or in a team of 2 or 3 members .
+\n2. Time Duration:- 5min (minimum) to 10min (maximum).
+\n3.Use of Vulgar Language or personal Comments is strictly Prohibited. If any such incident occurs then the Participants will be disqualified from the Competition and will have to immediately quit their Performance.
+\n4. Language should be Hindi or English.
+\n5. Judges Decision will be final and Binding.
+\n6. Participants have to submit their Script prior to their Performance for verification and changes will be suggested if required (Script will be kept Confidential).
+\n7. Participants are expected to bring their costumes and props if they require."
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+</LinearLayout>
+
+ </ScrollView>
+
